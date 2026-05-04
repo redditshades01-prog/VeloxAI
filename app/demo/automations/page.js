@@ -1,4 +1,4 @@
-import AutomationsDemo from '../components/demos/AutomationsDemo';
+import AutomationsDemo from '../../components/demos/AutomationsDemo';
 
 export const metadata = {
   title: 'Automations Demo — Veloxai',
