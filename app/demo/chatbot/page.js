@@ -1,4 +1,4 @@
-import ChatbotDemo from '../../components/demos/ChatbotDemo';
+import ChatbotDemo from '../../../components/demos/ChatbotDemo';
 
 export const metadata = {
   title: 'AI Chatbot Demo — Veloxai',
