@@ -1,4 +1,4 @@
-import AIWebAppDemo from '../../components/demos/AIWebAppDemo';
+import AIWebAppDemo from '../../../components/demos/AIWebAppDemo';
 
 export const metadata = {
   title: 'AI Web App Demo — Veloxai',
