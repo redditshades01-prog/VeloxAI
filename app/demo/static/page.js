@@ -1,4 +1,4 @@
-import StaticWebsiteDemo from '../../components/demos/StaticWebsiteDemo';
+import StaticWebsiteDemo from '../../../components/demos/StaticWebsiteDemo';
 
 export const metadata = {
   title: 'Static Website Demo — Veloxai',
