@@ -15,12 +15,12 @@ export default function HomePage() {
   const cursorOuterRef = useRef(null);
 
   // Change 2: Auto-scroll to #demos after 1.2s on page load
-  useEffect(() => {
-    const timer = setTimeout(() => {
-      document.getElementById('demos')?.scrollIntoView({ behavior: 'smooth' });
-    }, 1200);
-    return () => clearTimeout(timer);
-  }, []);
+  //useEffect(() => {
+    //const timer = setTimeout(() => {
+      //document.getElementById('demos')?.scrollIntoView({ behavior: 'smooth' });
+    //}, 1200);
+   // return () => clearTimeout(timer);
+ // }, []);
 
   // Custom cursor glow (desktop only)
   useEffect(() => {
