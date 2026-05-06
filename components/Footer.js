@@ -155,12 +155,12 @@ export default function Footer() {
           </p>
           <p style={{ fontFamily: 'var(--font-body)', fontSize: 12.5, color: 'var(--text-muted)' }}>
             <a
-              href="mailto:hello@veloxai.tech"
+              href="mailto:veloxai.tech@gmail.com"
               style={{ color: 'var(--text-muted)', textDecoration: 'none', transition: 'color 0.2s' }}
               onMouseEnter={(e) => (e.target.style.color = 'var(--cyan)')}
               onMouseLeave={(e) => (e.target.style.color = 'var(--text-muted)')}
             >
-              hello@veloxai.tech
+              veloxai.tech@gmail.com
             </a>
           </p>
         </div>
